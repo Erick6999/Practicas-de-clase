@@ -1,0 +1,84 @@
+h1{
+color: black;
+background-color: red;
+font-family: Helvetica;
+
+}
+p{
+    background-color: coral;
+}
+
+/* Ejercicio 2
+#caja1, #caja2, #caja3{
+    background-color: yellow;
+    color: red;
+    border: blue solid 5px;
+}
+
+#caja1{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+#caja2 {
+    float: left;
+    width: 250px;
+    height: 300px;
+}
+#caja3 {
+    width: 500px;
+    height: 300px;
+}
+*/
+
+/* Ejercicio 1
+body {
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
+    margin: 0px;
+    background-color: burlywood;
+}
+main { 
+    position: static;
+    top: 150px;
+}
+article {
+    margin: 18px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+    color: white
+}
+h1 { 
+    color: blue;
+}
+h2{
+    color:blueviolet;
+}
+*/
+
+/*
+backgraound color
+color
+font size
+font family opcional
+
+margin
+border
+padding
+
+tamaño
+width
+height
+
+float
+
+h1
+h2
+imagen
+texto (parrafo 300 palabras)
+2 cajas 1 despues de la otra
+texto (parrafo 300 palabras)
+*/
